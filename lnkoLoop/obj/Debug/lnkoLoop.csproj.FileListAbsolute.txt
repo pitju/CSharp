@@ -1,0 +1,6 @@
+C:\Users\istvan\RiderProjects\ConsoleApplications\lnkoLoop\bin\Debug\lnkoLoop.exe
+C:\Users\istvan\RiderProjects\ConsoleApplications\lnkoLoop\bin\Debug\lnkoLoop.pdb
+C:\Users\istvan\RiderProjects\ConsoleApplications\lnkoLoop\obj\Debug\lnkoLoop.csprojAssemblyReference.cache
+C:\Users\istvan\RiderProjects\ConsoleApplications\lnkoLoop\obj\Debug\lnkoLoop.csproj.CoreCompileInputs.cache
+C:\Users\istvan\RiderProjects\ConsoleApplications\lnkoLoop\obj\Debug\lnkoLoop.exe
+C:\Users\istvan\RiderProjects\ConsoleApplications\lnkoLoop\obj\Debug\lnkoLoop.pdb

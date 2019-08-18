@@ -1,0 +1,6 @@
+C:\Users\istvan\RiderProjects\ConsoleApplications\simPinPuk\bin\Debug\simPinPuk.exe
+C:\Users\istvan\RiderProjects\ConsoleApplications\simPinPuk\bin\Debug\simPinPuk.pdb
+C:\Users\istvan\RiderProjects\ConsoleApplications\simPinPuk\obj\Debug\simPinPuk.csprojAssemblyReference.cache
+C:\Users\istvan\RiderProjects\ConsoleApplications\simPinPuk\obj\Debug\simPinPuk.csproj.CoreCompileInputs.cache
+C:\Users\istvan\RiderProjects\ConsoleApplications\simPinPuk\obj\Debug\simPinPuk.exe
+C:\Users\istvan\RiderProjects\ConsoleApplications\simPinPuk\obj\Debug\simPinPuk.pdb
